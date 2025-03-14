@@ -1,6 +1,11 @@
 # yt-dlp
-yt-dlp下载音乐视频可视化菜单一键脚本，小白级玩家的福音
 yt-dlp它是一个功能强大的命令行工具，用于从 YouTube 和其他数百个支持的网站（如Bilibili、Twitter、TikTok等）下载视频或音频。它是经典工具 youtube-dl 的分支项目，但因其更快的更新频率、更丰富的功能以及更好的性能（例如多线程下载）而广受欢迎。
+
+### yt-dlp下载音乐视频可视化菜单一键脚本:
+
+```
+bash<(curl -sL https://github.com/3981877/yt-dlp/releases/download/1.0/yt-dlp.sh)
+```
 
 ---
 
